@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ysv2
 - 👀 I’m interested in python, full stack applications
-- 🌱 I’m currently learning full stack apps and python
+- 🌱 I’m currently learning python and flask
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
